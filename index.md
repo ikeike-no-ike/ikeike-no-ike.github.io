@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/ikeike-no-ike/ikeike-no-ik
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### イケイケの池のサイトだようぇい
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+説明ぽい文章ヒア
 
 ```markdown
 Syntax highlighted code block
